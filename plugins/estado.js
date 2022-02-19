@@ -6,7 +6,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 *ミ🤖 Estado del Bot 🤖彡*
 *=> Bot activo ✔️*
 *=> Bot uso público ✔️*
-`.trim(), '©The Shadow Borkers - Bot', '🔷️ MENÚ 🔷', `${usedPrefix}menu`, '🔶️ MENÚ SIMPLE 🔶️', `${usedPrefix}menusimple`, '💠️ MENÚ AUDIOS 💠️', `${usedPrefix}menuaudios`)
+`.trim(), '©NeKotine - Bot', '🔷️ MENÚ 🔷', `${usedPrefix}menu`, '🔶️ MENÚ SIMPLE 🔶️', `${usedPrefix}menusimple`, '💠️ MENÚ AUDIOS 💠️', `${usedPrefix}menuaudios`)
 }
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
 
