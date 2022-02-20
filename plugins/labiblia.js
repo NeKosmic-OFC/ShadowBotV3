@@ -16,6 +16,8 @@ let menu =`
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
 ┃ *<MENU +18/>*
+┃ *USA ESTOS COMANDOS BAJO TU PROPIA RESPONSABILIDAD, TEN EN CUENTA QUE AL QUE BANEARAN DEL GRUPO SERA A TI 7w7
+┃
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ┣ ඬ⃟🔞 _${usedPrefix}video_
 ┣ ඬ⃟🔞 _${usedPrefix}imglesbians_
