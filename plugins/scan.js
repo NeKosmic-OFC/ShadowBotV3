@@ -2,7 +2,7 @@
 // https://github.com/TOXIC-DEVIL
 
 let handler = async (m, { conn, args }) => {
-    if (!args || !args[0] || args.length === 0) throw '*[❗] Ingrese un numero valido*\n\*Ejemplo:*\n*#scan 5219991402134*'
+    if (!args || !args[0] || args.length === 0) throw '*[❗] Ingrese un numero valido*\n\*Ejemplo:*\n*#scan 34623442554*'
     if (args[0].startsWith('0')) throw '*[❗] Ingrese un código de área!*'
     let user = await conn.isOnWhatsApp(args[0])
     let exists = user && user.exists ? true : false
