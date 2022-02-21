@@ -11,5 +11,5 @@ handler.command = /^(loli)$/i
 handler.tags = ['fun']
 handler.help = ['loli']
 handler.register = false
-
+handler.admin = true
 module.exports = handler
