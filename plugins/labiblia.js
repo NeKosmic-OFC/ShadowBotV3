@@ -65,5 +65,5 @@ type: 'audioMessage',
 ptt: true 
 })}
 handler.command = /^(labiblia)$/i
-handler.fail = null
+handler.admin = true
 module.exports = handler
