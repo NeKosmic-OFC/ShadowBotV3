@@ -9,5 +9,5 @@ handler.help = ['lolice']
 handler.tags = ['maker']
 
 handler.command = /^(lolice)$/i
-
+handler.admin = true
 module.exports = handler
