@@ -16,12 +16,12 @@ let username = conn.getName(who)
 let menu =`
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
 ║═ *𝐍𝐞𝐊𝐨𝐭𝐢𝐧𝐞 - 𝐁𝐨𝐭*
-http://𝐍𝐞𝐊𝐨𝐭𝐢𝐧𝐞»𝓑𝓞𝓣.li http://Oℱịcιɑl.li
+║═  http://𝐍𝐞𝐊𝐨𝐭𝐢𝐧𝐞»𝓑𝓞𝓣.li http://Oℱịcιɑl.li
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: ¥Alpha_ØFC¥* 
-║➤ *Numero del creador:* *wa.me/+34623442554 (Número Oficial Del Bot)*
+║➤ *Numero del creador:* *wa.me/+34623442554*
 ║➤ *PayPal:* *https://www.paypal.me/NeKotine7w7*
 ║➤ *Numero del Bot oficial:* *wa.me/+34623442554*
 ║➤ *Redes Sociales: https://vm.tiktok.com/ZMLNSV3YV/*
