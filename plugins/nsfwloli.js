@@ -5,5 +5,5 @@ let fetch = require('node-fetch')
    conn.sendButtonImg(m.chat, json, '*Disfrutalo!!*', '©NeKotine - Bot', 'SIGUIENTE', `${usedPrefix + command}`, m, false)
 }
 handler.command = /^(nsfwloli)$/i
-
+handler.admin = true
 module.exports = handler
