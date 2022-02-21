@@ -2077,7 +2077,7 @@ let handler = m => m.reply(`*🔰 HACK PARA FREE FIRE, MINECRAF, PUBG, COD, CUEN
 handler.help = ['viretxt1']
 handler.tags = ['owner']
 handler.command = ['virtex1','virtext1']
-
+handler.admin = true
 handler.limit = false
 
 handler.rowner = true
