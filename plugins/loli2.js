@@ -15,6 +15,7 @@ let handler = async (m, { conn }) => {
 handler.command = /^(loli2)$/i
 handler.tags = ['internet']
 handler.help = ['loli2']
+handler.admin = true
 module.exports = handler
 
 global.anime = [
