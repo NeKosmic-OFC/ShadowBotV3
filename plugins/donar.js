@@ -7,7 +7,8 @@ let handler = async m => m.reply(`
 *┃ ❖ Hola persona hermosa ❤️*
 *┃ 👉 Aquí tienes algunos datos*
 *┃ para que puedas apoyar <3*
-*┃  - Mis redes: https://vm.tiktok.com/ZMLNSV3YV/
+*┃  - Mis redes: 👇
+*┃  - https://vm.tiktok.com/ZMLNSV3YV/
 *┃  - Se agradecen tus donaciónes*
 *┃  - CONCEPTO: Donar*
 *┃  - BENEFICIARIO: ¥Alpha_ØFC¥ Creador de NeKotine-BOT*
