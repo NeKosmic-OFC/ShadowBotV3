@@ -11,7 +11,7 @@ let handler = async m => m.reply(`
 *┃  - https://vm.tiktok.com/ZMLNSV3YV/*
 *┃  - Se agradecen tus donaciónes*
 *┃  - CONCEPTO: Donar*
-*┃  - BENEFICIARIO: ¥Alpha_ØFC¥┃Creador de NeKotine-BOT*
+*┃  - BENEFICIARIO: ¥NeKotine-BOT¥*
 *┃  - Aquí les dejo mi PayPal 7w7*
 *┃➤ PayPal: https://www.paypal.me/NeKotine7w7*
 *┃❖ Contáctame si necesitas otros*
