@@ -64,7 +64,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [🪀] version de WhatsApp: *${conn.user.phone.wa_version}*
 ╠➥ [🤖] Bots secundarios activos: *${totaljadibot.length}*
 ╠
-╠═〘 *The Shadow Brokers - Bot* 〙 ═
+╠═〘 *NeKotine - Bot* 〙 ═
 `.trim() 
   conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🔥 NEKOTINE - BOT 🔥*', 'status@broadcast')
 }
@@ -72,7 +72,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 //handler.tags = ['info', 'tools']
 
 handler.command = /^(infobot)$/i
-
+hndler.admin = true
 module.exports = handler
 
 function clockString(ms) {
