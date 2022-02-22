@@ -25,7 +25,7 @@ let menu =`
 ║➤ *PayPal:* *https://www.paypal.me/NeKotine7w7*
 ║➤ *Numero del Bot oficial:* *wa.me/+34623442554*
 ║➤ *Redes Sociales: https://vm.tiktok.com/ZMLNSV3YV/*
-║➤ *PayPal del puto amo🤑👌: https://www.paypal.me/TheShadowBrokers133
+║
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
