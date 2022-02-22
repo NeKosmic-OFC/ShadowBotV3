@@ -72,7 +72,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 //handler.tags = ['info', 'tools']
 
 handler.command = /^(infobot)$/i
-hndler.admin = true
+handler.admin = true
 module.exports = handler
 
 function clockString(ms) {
