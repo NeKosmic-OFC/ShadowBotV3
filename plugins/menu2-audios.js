@@ -47,7 +47,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ° ඬ⃟🔊 _Onichan_
 ° ඬ⃟🔊 _Bot puto_
 ° ඬ⃟🔊 _Feliz cumpleaños_
-° ඬ⃟🔊 _Shadow Bot_
+° ඬ⃟🔊 _NeKotine Bot_
 ° ඬ⃟🔊 _Pasa pack Bot_
 ° ඬ⃟🔊 _Atencion grupo_
 ° ඬ⃟🔊 _Oh me vengo_
