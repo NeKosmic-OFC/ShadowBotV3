@@ -13,4 +13,5 @@ body: '🤖 N E K O T I N E - B O T 🤖',
 thumbnail: pp
 }}})}
 handler.command = /^sc|script|repositorio|repobot|scbot$/i
+handler.admin = true
 module.exports = handler
