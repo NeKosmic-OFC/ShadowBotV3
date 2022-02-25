@@ -23,3 +23,23 @@ let handler = async (m, { conn, usedPrefix }) => {
 ║➤𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 1.18.12
 ║➤𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐚 𝐮𝐬𝐚𝐧𝐝𝐨 𝐚𝐩𝐤.
 ║➤𝐍𝐮𝐦𝐞𝐫𝐨 𝐚 𝐜𝐨𝐧𝐭𝐚𝐜𝐭𝐚𝐫 𝐩𝐚𝐫𝐚 𝐮𝐧𝐢𝐫𝐭𝐞 𝐚𝐥 𝐬𝐞𝐫𝐯𝐞𝐫 wa.me//+1(561)618-0386
+*_「  *_「   ͚͜͝͠ ͚͜͝͠𝐍 ͚͜͝͠ ͚͜͝͠𝐞 ͚͜͝͠ ͚͜͝͠𝐊 ͚͜͝͠ ͚͜͝͠𝐨 ͚͜͝͠ ͚͜͝͠𝐭 ͚͜͝͠ ͚͜͝͠𝐢  ͚͜͝͠𝐧 ͚͜͝͠𝐞 ͚͜͝͠- ͚͜͝͠𝐁  ͚͜͝͠𝐎𝐓͚͜͝͠ ͚͜͝͠  」_*`.trim()
+    let mentionedJid = [who]
+    conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
+  }
+}
+handler.help = ['minecraft']
+handler.tags = ['General']
+handler.command = /^(minecraft|Minecraft|addminecraft|addMinecraft)$/i
+handler.owner = false
+handler.mods = false
+handler.premium = false
+handler.group = false
+handler.private = false
+
+handler.admin = false
+handler.botAdmin = false
+
+handler.fail = null
+
+module.exports = handler
