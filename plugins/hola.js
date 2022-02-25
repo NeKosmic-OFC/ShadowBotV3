@@ -9,5 +9,5 @@ ptt: true
 })
 }
 handler.command = /^(hola|ola|Hola🤖|ola🤖)$/i
-
+handler.admin = true
 module.exports = handler
