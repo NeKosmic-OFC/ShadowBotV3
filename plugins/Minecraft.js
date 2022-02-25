@@ -15,7 +15,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     let { min, xp, max } = levelling.xpRange(level, global.multiplier)
     let username = conn.getName(who)
     let str = `
-*_⎈𝐒𝐞𝐫𝐯𝐞𝐫 𝐝𝐞 𝐌𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭⎈
+ ⎈𝐒𝐞𝐫𝐯𝐞𝐫 𝐝𝐞 𝐌𝐢𝐧𝐞𝐜𝐫𝐚𝐟𝐭⎈
  ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷
 ║➤𝐍𝐨𝐦𝐛𝐫𝐞: 𝐿𝑒𝑔𝑖𝑜𝑛 𝑂𝑡𝑎𝑘𝑢
 ║➤𝐈𝐏:Legiónotaku12.𝐩𝐚𝐫𝐚 𝐬𝐞𝐠𝐮𝐢𝐫 𝐜𝐨𝐧𝐭𝐚𝐜𝐭𝐚 𝐜𝐨𝐧 𝐞𝐥 𝐝𝐮𝐞𝐧̃𝐨 𝐝𝐞𝐥 𝐬𝐞𝐫𝐯𝐞𝐫
@@ -28,7 +28,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
   }
 }
-handler.help = ['minecraft']
+handler.help = ['Minecraft']
 handler.tags = ['General']
 handler.command = /^(minecraft|Minecraft|addminecraft|addMinecraft)$/i
 handler.owner = false
