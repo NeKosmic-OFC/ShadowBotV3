@@ -28,7 +28,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 }
 handler.help = ['Ultimas-Noticias']
 handler.tags = ['General']
-handler.command = /^(Ucrania contra Rusia|Guerra de Ucrania contra Rusia|Guerra|guerra Ucrania contra Ruasia|Ucrania VS Rusia|Últimas Noticias|Ultimas-Noticias|Guerra de Ucrania vs Rusia| Guerra de Ucrania VS Rusia)$/i
+handler.command = /^(Ucrania contra Rusia|Guerra de Ucrania contra Rusia|Guerra|guerra Ucrania contra Ruasia|Ucrania VS Rusia|Últimas Noticias|Ultimas-Noticias|Guerra de Ucrania vs Rusia| Guerra de Ucrania VS Rusia|últimas noticias|ultimas noticias|Últimas Noticias|Últimas-Noticias)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
