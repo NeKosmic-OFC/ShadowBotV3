@@ -37,6 +37,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 ┣ ඬ⃟ℹ️ _¿Qué es un Bot?_
 ┣ ඬ⃟ℹ️ _Codigos para audios_
 ┣ ඬ⃟ℹ️ _Términos y condiciones_
+┣ ඬ⃟ℹ️ _.Ultimas Noticias
 ┣ ඬ⃟📬 _${usedPrefix}bug_
 ┣ ඬ⃟📬 _${usedPrefix}report_
 ┣ ඬ⃟🤖 _${usedPrefix}join_ 
