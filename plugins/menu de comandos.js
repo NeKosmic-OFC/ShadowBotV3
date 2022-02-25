@@ -46,6 +46,7 @@ let menu =`
 ┣ ඬ⃟ℹ️ _Codigos para audios_
 ┣ ඬ⃟ℹ️ _Términos y condiciones_
 ┣ ඬ⃟ℹ️ _.Minecraft (es un servidor)_
+┣ ඬ⃟ℹ️ _.Ultimas Noticias
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<REPORTA FALLOS EN ALGÚN COMANDO/>*
