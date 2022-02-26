@@ -21,6 +21,10 @@ let handler = async (m, { conn, usedPrefix }) => {
 ║➤𝐋𝐢𝐧𝐤2: https://www.lavanguardia.com/internacional/20220225/8084362/ucrania-rusia-guerra-putin-biden-noticias-ultima-hora-directo.html
 ║➤𝐋𝐢𝐧𝐤3 𝐎𝐫𝐢𝐠𝐞𝐧: https://www.cronista.com/internacionales/por-que-es-la-guerra-entre-rusia-y-ucrania-que-paso-en-2014/
 ║➤𝐄𝐬𝐩𝐞𝐫𝐞𝐦𝐨𝐬 𝐪𝐮𝐞 𝐞𝐬𝐭𝐨 𝐚𝐜𝐚𝐛𝐞 𝐩𝐫𝐨𝐧𝐭𝐨 7𝐰7
+⎈𝐍𝐨𝐭𝐢𝐜𝐢𝐚𝐬 𝐃𝐞 𝐃𝐢𝐟𝐞𝐫𝐞𝐧𝐭𝐞𝐬 𝐙𝐨𝐧𝐚𝐬⎈
+ ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦
+║➤𝐋𝐢𝐧𝐤1 𝐄𝐥 𝐏𝐚𝐢𝐬»𝐀𝐦𝐞𝐫𝐢𝐜𝐚: https://elpais.com/america/
+║➤𝐋𝐢𝐧𝐤2 𝐄𝐮𝐫𝐨𝐩𝐚𝐏𝐫𝐞𝐬𝐬»𝐄𝐮𝐫𝐨𝐩𝐚: https://www.europapress.es
 
 *_「  *_「   ͚͜͝͠ ͚͜͝͠𝐍 ͚͜͝͠ ͚͜͝͠𝐞 ͚͜͝͠ ͚͜͝͠𝐊 ͚͜͝͠ ͚͜͝͠𝐨 ͚͜͝͠ ͚͜͝͠𝐭 ͚͜͝͠ ͚͜͝͠𝐢  ͚͜͝͠𝐧 ͚͜͝͠𝐞 ͚͜͝͠- ͚͜͝͠𝐁  ͚͜͝͠𝐎𝐓͚͜͝͠  」*`.trim()
     let mentionedJid = [who]
