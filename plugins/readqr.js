@@ -26,11 +26,11 @@ handler.premium = false
 handler.group = false
 handler.private = false
 
-handler.admin = false
-handler.botAdmin = false
+handler.admin = true
+handler.botAdmin = true
 
 handler.fail = null
-handler.exp = 0
+handler.exp = 9999
 handler.limit = false
 
 module.exports = handler
