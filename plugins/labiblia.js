@@ -4,7 +4,7 @@ let moment = require('moment-timezone')
 let path = require('path')
 let util = require('util')
 let handler = async (m, { conn, usedPrefix }) => {
-let pp = './Bot.jpeg'
+let pp = './video2.mp4'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let username = conn.getName(who)
 let vn = './media/mariana.mp3'
@@ -59,7 +59,7 @@ let menu =`
 ┣ ඬ⃟🔞 _${usedPrefix}nsfwloli_
 ┗━━━━━━━━━━━━━┛`.trim()
 let mentionedJid = [who]
-conn.sendButtonImg(m.chat, pp, menu, '©NeKotine - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
+conn.sendButtonVid(m.chat, pp, menu, '©NeKotine - Bot', '𝕄 𝔼 ℕ 𝕌   ℙ ℝ 𝕀 ℕ ℂ 𝕀 ℙ 𝔸 𝕃', `#menu`, m, false, { contextInfo: { mentionedJid }})   
 await await await await await await conn.sendFile(m.chat, vn, 'ora.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
