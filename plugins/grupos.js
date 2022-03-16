@@ -5,7 +5,7 @@ let info = `
 *_➤ Grupos oficiales del Bot:_*
 *_1.-_* *https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy*
 
-*_2.-_* *https://chat.whatsapp.com/JJNm8HdK9yJJzkq5NlDjfW*
+*_2.-_* *https://chat.whatsapp.com/IVE30IhKwxsGbOunDFpOS2*
 
 *_3.-_* *https://chat.whatsapp.com/Grupo-No-Creado*
 
